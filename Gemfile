@@ -68,3 +68,5 @@ gem 'rails-i18n'
 gem "psych", "< 4.0.0"
 
 gem 'net-smtp'
+
+gem 'sassc'
