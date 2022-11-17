@@ -70,3 +70,7 @@ gem "psych", "< 4.0.0"
 gem 'net-smtp'
 
 gem 'sassc'
+
+gem 'net-imap'
+
+gem 'net-pop'
